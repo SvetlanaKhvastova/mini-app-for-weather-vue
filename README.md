@@ -1,4 +1,4 @@
-# my-project
+# Mini Weather App
 
 ## Project setup
 ```
